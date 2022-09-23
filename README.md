@@ -1,5 +1,7 @@
 # Merge-K-sorted-Arrays
 Practise Link: https://practice.geeksforgeeks.org/problems/merge-k-sorted-arrays/1
+
+
 Given K sorted arrays arranged in the form of a matrix of size K*K. The task is to merge them into one sorted array.
 
 Thq question is looking for a sorted unidirectional array,from a 2d matrix which is already sorted in some special manner. We could have used sorting algorithm, the time and space complexity would be O(nlogn) and O(n^2) where n=k.
